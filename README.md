@@ -17,7 +17,7 @@ Our experiments show that MIC-guided DP mechanisms consistently outperform Pears
 You can install the package directly from PyPI:
 
 ```bash
-pip install micdp
+pip install mic-dp
 ```
 
 Or install from source:
